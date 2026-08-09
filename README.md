@@ -167,3 +167,5 @@ itself. `mcp` and `worker` need `./dev.sh reload`. Only a
 
 App on <http://localhost:8000>, Postgres on `localhost:5433`, Redis on
 `localhost:6380` (offset so a host install keeps its default port).
+
+How to: https://learnwithhasan.com/guide/ai-second-brain/
